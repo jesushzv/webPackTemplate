@@ -1,0 +1,2 @@
+# webPackTemplate
+Webpack starter template
