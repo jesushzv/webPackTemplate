@@ -14,7 +14,7 @@ npm i
 
 You are ready to go!
 
-By default, entry point is: index.js, index.html, style.css, style.scss
+By default, entry point is: **src/index.js**
 
 ## Usage
 ### Development
