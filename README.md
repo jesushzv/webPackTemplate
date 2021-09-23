@@ -3,5 +3,5 @@
 
 Webpack 5 starter template
 
-## Instalation
+## Installation
 Clone the repo and npm install
