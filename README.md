@@ -5,3 +5,14 @@ Webpack 5 starter template
 
 ## Installation
 Clone the repo and npm install
+
+```
+npm i
+```
+
+## Usage
+### Development
+```
+npm start
+```
+Will launch a local server with automatic reloading
